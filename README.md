@@ -3,6 +3,7 @@
 - 💻 Skils: Android , Ios, React Native
 - 🌱 I’m currently learning at Fanshawe College, London, ON
 - 📫 You can reach me through mail: shakya.cyrus@gmail.com
+- 🔗 Let's connect through Linkedin: https://www.linkedin.com/in/cyrus-shakya-277b70245/
 - 🧑🏻‍💻 You can explore my projects here
 
 <!---
