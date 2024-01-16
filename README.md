@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cyrus Shakya
 - 👀 I’m interested in mobile app development, cross platform and web designs
 - 💻 Skils: Android , Ios, React Native
-- 🌱 I’m currently learning at Fanshawe College, London, ON
+- 🌱 Recently graduated from Fanshawe College, ON
 - 📫 You can reach me through mail: shakya.cyrus@gmail.com
 - 🔗 Let's connect through Linkedin: https://www.linkedin.com/in/cyrus-shakya-277b70245/
 - 🧑🏻‍💻 You can explore my projects here
